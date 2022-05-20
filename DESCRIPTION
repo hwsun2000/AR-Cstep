@@ -1,0 +1,13 @@
+Package: MTLEN
+Type: Package
+Title: AR-Cstep
+Version: 0.1.0
+Depends: R (>= 4.0.0)
+Imports: mvtnorm,glmnet,glmpath,glmnetUtils,MASS
+Author: Hongwei Sun
+Maintainer: Hongwei Sun<hwsun2000@163.com>
+Description: An algorithm for penalized maximum trimmed likelihood estimation in mislabeled Omics data.
+License: GPL-3
+Date: 2020-6-17
+Encoding: UTF-8
+LazyData: true
